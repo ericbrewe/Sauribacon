@@ -1,6 +1,6 @@
 ################## Hero area ##################
 heroArea:
-  enable : true
+  enable : fals
   bgImage : "images/header.jpg"
   overlay:
     enable : true
