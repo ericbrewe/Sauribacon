@@ -22,8 +22,8 @@ gallery:
 about:
   enable : true
   image : "images/cooker-img.png"
-  title : "Featured Your <span> Restaurant’s</span> Website Has To Look Good"
-  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in </br>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat Ut enim ad minim veniam"
+  title : "Sauribacon - A new food creation"
+  description : "The issue with the tur-duck-en is that if you are going to stuff meat inside of meat inside of meat, you shoud choose the best meats. Building on this premise, Eric Brewe, a physics professor and recreational cook invented the Sauribacon. The Sauribacon is a three layered meat treat, with a core of rib meat, surrounded by a sausage layer and wrapped in bacon.  This concoction was developed to improve on the the meats that make up the tur-duck-en."
   
 ################# Blog ######################
 blog:
@@ -36,7 +36,7 @@ blog:
 
 ################# food Menu ################
 pricing:
-  enable : true
+  enable : false
   title : "Our Easy <span>PRICE</span>"
   description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
   subtitle : "FEATURED ON THE WEEK"
@@ -63,7 +63,7 @@ pricing:
 
 ################### Subscription ################
 subscription:
-  enable : true
+  enable : false
   bgImage : "images/subscribe-bg.jpg"
   title : "SUBSCRIBE to our <span>NEWSLETTER</span>"
   description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
