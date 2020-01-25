@@ -1,7 +1,7 @@
 ################## Hero area ##################
 heroArea:
-  enable : fals
-  bgImage : "images/header.jpg"
+  enable : true
+  bgImage : "images/Sauribacon1.jpg"
   overlay:
     enable : true
 
