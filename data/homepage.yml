@@ -1,5 +1,5 @@
 ################## Hero area ##################
-heroArea:
+heroArea: Sauribacon
   enable : true
   bgImage : "images/Sauribacon1.jpg"
   overlay:
@@ -20,7 +20,7 @@ gallery:
 ################ About #######################
 about:
   enable : true
-  image : "images/cooker-img.png"
+  image : "images/cooker-img.jpg"
   title : "Sauribacon - A new food creation"
   description : "The issue with the tur-duck-en is that if you are going to stuff meat inside of meat inside of meat, you shoud choose the best meats. Building on this premise, Eric Brewe, a physics professor and recreational cook invented the Sauribacon. The Sauribacon is a three layered meat treat, with a core of rib meat, surrounded by a sausage layer and wrapped in bacon.  This concoction was developed to improve on the the meats that make up the tur-duck-en."
   
@@ -74,7 +74,7 @@ subscription:
 
 ################ Contact #######################
 contact:
-  enable : true
-  title: "Let's <span> Contact Us </span>"
+  enable : false
+  title: "<span> Contact Us </span>"
   subtitle: "SIGN UP FOR EMAIL ALERTS"
   formAction : "#" #contact form works with formspree.io
