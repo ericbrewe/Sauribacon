@@ -78,9 +78,9 @@ paginate = 4
 logo = "images/SauribaconLogo.png"
 # meta data
 author = "Themefisher"
-description = "This is meta description"
+description = "A story of three meats"
 # google analitycs ID
-google_analitycs_id = "Your ID"
+google_analitycs_id = "UA-122962724-3"
 # copyright
 copyright = "Copyright 2019 - All Rights Reserved. Design and Developed By Themefisher.com"
 
