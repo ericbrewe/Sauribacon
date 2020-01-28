@@ -95,7 +95,7 @@ enable = true
 contactInfoTitle = "CONTACT <span>INFO</span> "
 blogTitle = "LATEST <span>BLOG POSTS</span>"
 galleryTitle = "PHOTO <span>STREAM</span>"
-socialTitle = "Follow <span>US</span>"
+#socialTitle = "Follow <span>US</span>"
 
 ############################ footer contact item
 #[[params.footer.contactItem]]
