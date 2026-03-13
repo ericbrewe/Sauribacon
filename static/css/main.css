@@ -57,6 +57,12 @@ body {
   color: var(--accent);
 }
 
+
+.food-image {
+  width: 100%;
+  max-width: 250px;
+}
+
 /* HERO */
 
 .hero {
