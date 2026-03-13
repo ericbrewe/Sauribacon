@@ -199,3 +199,46 @@ body {
   margin-top: 3rem;
   font-size: 2rem;
 }
+
+/* PAGE HEADER */
+
+.page-header {
+  padding: 5rem 0 2rem 0;
+  text-align: center;
+}
+
+.page-header h1 {
+  font-family: "Anton", sans-serif;
+  font-size: 3.5rem;
+  letter-spacing: 0.05em;
+}
+
+/* PAGE BODY */
+
+.page-body {
+  padding: 2rem 0 6rem 0;
+}
+
+.content {
+  max-width: 800px;
+  margin: 0 auto;
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+.content h2 {
+  margin-top: 3rem;
+  font-family: "Anton", sans-serif;
+  letter-spacing: 0.04em;
+}
+
+.content ul,
+.content ol {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding-left: 1.5rem;
+}
+
+.content li {
+  margin-bottom: 0.5rem;
+}

@@ -1,11 +1,14 @@
 {{ define "main" }}
 
-<section class="section">
+<section class="page-header">
   <div class="container">
     <h1>{{ .Title }}</h1>
-    <div class="page-content">
-      {{ .Content }}
-    </div>
+  </div>
+</section>
+
+<section class="page-body">
+  <div class="container content">
+    {{ .Content }}
   </div>
 </section>
 
