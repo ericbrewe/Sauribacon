@@ -18,7 +18,7 @@ When you are ready to wrap in bacon there are two approaches. I prefer to cut ba
 
 Sauribacon should be cooked sous vide. So the sauribacon should be bagged (double bagging is not a bad idea). Then I cook at 155 degrees for at least 24 hrs. After 24 hrs, remove the sauribacon from the bag saving the juices. Crisp the bacon in a skillet, turning it to crisp up on all sides about 3 minutes per side.
  
-Slice it on the bias about ½ inch thick and serve. 
+Slice it on the bias about 3/4 inch thick and serve. 
 
 --- 
 ### Serving Suggestions:
